@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+*.log
+.cache/
+__pycache__/
+venv/
+*.egg-info/
+.pytest_cache/
+.obsidian/

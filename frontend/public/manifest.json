@@ -1,0 +1,17 @@
+{
+  "name": "CalcuLux - Calculadora de Electricidad",
+  "short_name": "CalcuLux",
+  "description": "Calcula el coste real de tus electrodomésticos en la factura de luz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
